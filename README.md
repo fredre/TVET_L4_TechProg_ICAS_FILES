@@ -9,3 +9,7 @@ Files required to complete the ICASS from 2025 onwards.
 #### Subtask 2
 - components_data_ERR.txt 
 
+### Data File(s) For INTEGRATED SUMMATIVE ASSESSMENT TASK (ISAT)
+
+#### Subtask 2
+- new_stock.txt 
